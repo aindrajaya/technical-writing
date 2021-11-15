@@ -15,3 +15,4 @@
 13. How to Include a YouTube video Reference in GitHub Wiki
 
 ## My Thoughts
+- The early topics in this section, we discuss about on how we can use the GitHub wiki page to showing or publish our software documentation
